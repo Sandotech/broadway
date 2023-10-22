@@ -1,7 +1,7 @@
 databases:
   - name: Broadway
-    databaseName: Broadway
-    user: Broadway
+    databaseName: diego
+    user: diego
 
 services:
   - type: web
